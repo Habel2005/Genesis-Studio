@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Background image for hero section",
+      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageHint": "abstract dark"
+    },
+    {
+      "id": "feature1",
+      "description": "Visual representation of AI design",
+      "imageUrl": "https://picsum.photos/seed/feature1/800/600",
+      "imageHint": "ui design"
+    },
+    {
+      "id": "feature2",
+      "description": "Visual representation of automated intelligence",
+      "imageUrl": "https://picsum.photos/seed/feature2/800/600",
+      "imageHint": "ai digital"
+    }
+  ]
 }
