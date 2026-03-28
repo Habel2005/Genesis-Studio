@@ -1,8 +1,9 @@
-
 'use client';
 
 import React from 'react';
 import { motion } from 'framer-motion';
+import Image from 'next/image';
+import Link from 'next/link';
 import { ArrowUpRight, Play, Zap, Palette, BarChart3, Shield } from 'lucide-react';
 import { Navbar } from '@/components/Navbar';
 import { BlurText } from '@/components/BlurText';
@@ -145,7 +146,7 @@ export default function Home() {
                 alt="Feature visual"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
-                data-ai-hint="minimalist UI animation"
+                data-ai-hint="ui design"
               />
             </div>
           </div>
@@ -171,7 +172,7 @@ export default function Home() {
                 alt="Feature visual"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
-                data-ai-hint="ai visual abstract"
+                data-ai-hint="ai digital"
               />
             </div>
           </div>
