@@ -1,6 +1,6 @@
 # Genesis Studio | AI-Powered Web Design
 
-Genesis Studio is a high-end, modern web design agency landing page that showcases the power of AI-integrated design and development. Built for speed, aesthetics, and performance, it demonstrates a "dream to ship" workflow.
+Genesis Studio is a high-end, modern web design agency landing page that showcases the power of AI-Integrated design and development. Built for speed, aesthetics, and performance, it demonstrates a "dream to ship" workflow.
 
 ## Features
 
